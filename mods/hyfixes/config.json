@@ -1,0 +1,94 @@
+{
+  "chunkUnload": {
+    "enabled": true,
+    "intervalSeconds": 30,
+    "initialDelaySeconds": 10,
+    "gcEveryNAttempts": 5,
+    "mapAwareMode": false
+  },
+  "chunkCleanup": {
+    "intervalTicks": 600
+  },
+  "chunkProtection": {
+    "enabled": true,
+    "protectedEntityKeywords": [
+      "teleport",
+      "portal",
+      "warp",
+      "interaction",
+      "zone"
+    ],
+    "protectedBlockKeywords": [
+      "teleport",
+      "portal",
+      "warp",
+      "spawner",
+      "beacon"
+    ],
+    "protectGrowingPlants": true,
+    "protectSpawnBeacons": true,
+    "verificationIntervalTicks": 12000,
+    "logProtectionEvents": false
+  },
+  "sanitizers": {
+    "pickupItem": true,
+    "respawnBlock": true,
+    "processingBench": true,
+    "craftingManager": true,
+    "interactionManager": true,
+    "spawnBeacon": true,
+    "chunkTracker": true,
+    "gatherObjective": true,
+    "emptyArchetype": true,
+    "instancePositionTracker": true,
+    "pickupItemChunkHandler": true,
+    "defaultWorldRecovery": true
+  },
+  "interactionManager": {
+    "clientTimeoutMs": 2000
+  },
+  "instanceTracker": {
+    "positionTtlHours": 24
+  },
+  "monitor": {
+    "logIntervalTicks": 6000
+  },
+  "emptyArchetype": {
+    "skipFirstN": 1000,
+    "logEveryN": 10000
+  },
+  "logging": {
+    "verbose": false,
+    "sanitizerActions": true
+  },
+  "transformers": {
+    "interactionChain": true,
+    "world": true,
+    "spawnReferenceSystems": true,
+    "beaconSpawnController": true,
+    "blockComponentChunk": true,
+    "spawnMarkerSystems": true,
+    "spawnMarkerEntity": true,
+    "trackedPlacement": true,
+    "commandBuffer": true,
+    "worldMapTracker": true,
+    "archetypeChunk": true,
+    "interactionTimeout": true,
+    "uuidSystem": true,
+    "tickingThread": true,
+    "universeRemovePlayer": true
+  },
+  "world": {
+    "retryCount": 5,
+    "retryDelayMs": 20
+  },
+  "early": {
+    "logging": {
+      "verbose": false
+    }
+  },
+  "interactionTimeout": {
+    "baseTimeoutMs": 6000,
+    "pingMultiplier": 3.0
+  }
+}

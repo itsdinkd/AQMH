@@ -1,0 +1,1624 @@
+{
+  "activePreset": "default",
+  "defaults": {
+    "growthTimeMinutes": 20.0,
+    "breedCooldownMinutes": 3.0
+  },
+  "animals": {
+    "COW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Cauliflower_Item",
+        "Plant_Crop_Lettuce_Item"
+      ],
+      "growthTimeMinutes": 25.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PIG": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Carrot_Item",
+        "Plant_Crop_Potato_Item",
+        "Plant_Crop_Mushroom_Cap_Brown",
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 15.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CHICKEN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Corn_Item",
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Rice_Item"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SHEEP": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Lettuce_Item",
+        "Plant_Crop_Cauliflower_Item"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOAT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple",
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Carrot_Item"
+      ],
+      "growthTimeMinutes": 18.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "HORSE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Carrot_Item",
+        "Plant_Fruit_Apple",
+        "Plant_Crop_Wheat_Item"
+      ],
+      "growthTimeMinutes": 30.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CAMEL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Cactus_Fruit"
+      ],
+      "growthTimeMinutes": 35.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "RAM": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TURKEY": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Corn_Item",
+        "Plant_Crop_Wheat_Item"
+      ],
+      "growthTimeMinutes": 15.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "BOAR": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Mushroom_Cap_Red",
+        "Plant_Crop_Mushroom_Cap_Brown",
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 18.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "RABBIT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Carrot_Item",
+        "Plant_Crop_Lettuce_Item",
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 1.0
+    },
+    "BISON": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Corn_Item"
+      ],
+      "growthTimeMinutes": 35.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CHICKEN_DESERT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Corn_Item",
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Rice_Item"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "MOUFLON": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Lettuce_Item",
+        "Plant_Crop_Cauliflower_Item"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PIG_WILD": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Mushroom_Cap_Red",
+        "Plant_Crop_Mushroom_Cap_Brown",
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 18.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SKRILL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Corn_Item",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "WARTHOG": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Mushroom_Cap_Red",
+        "Plant_Crop_Mushroom_Cap_Brown",
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 18.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "WOLF": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Meat_Cooked",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 25.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "WOLF_WHITE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Meat_Cooked",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 25.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "FOX": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw",
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 15.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "BEAR_GRIZZLY": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple",
+        "Food_Fish_Raw",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 45.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "BEAR_POLAR": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Cooked",
+        "Food_Fish_Raw",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 45.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "DEER_DOE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Carrot_Item",
+        "Plant_Fruit_Apple",
+        "Plant_Crop_Wheat_Item"
+      ],
+      "growthTimeMinutes": 25.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "DEER_STAG": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Carrot_Item",
+        "Plant_Fruit_Apple",
+        "Plant_Crop_Wheat_Item"
+      ],
+      "growthTimeMinutes": 25.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "MOOSE_BULL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Lettuce_Item"
+      ],
+      "growthTimeMinutes": 40.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "MOOSE_COW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Lettuce_Item"
+      ],
+      "growthTimeMinutes": 40.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "HYENA": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "FROG_BLUE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Insect"
+      ],
+      "growthTimeMinutes": 5.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "FROG_GREEN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Insect"
+      ],
+      "growthTimeMinutes": 5.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "FROG_ORANGE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Insect"
+      ],
+      "growthTimeMinutes": 5.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GECKO": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Insect"
+      ],
+      "growthTimeMinutes": 5.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "MEERKAT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Insect"
+      ],
+      "growthTimeMinutes": 5.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "MOUSE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Corn_Item"
+      ],
+      "growthTimeMinutes": 3.0,
+      "breedCooldownMinutes": 0.5
+    },
+    "SQUIRREL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple",
+        "Plant_Crop_Corn_Item"
+      ],
+      "growthTimeMinutes": 5.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "DUCK": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Corn_Item",
+        "Plant_Crop_Wheat_Item"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PIGEON": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Corn_Item"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PARROT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Corn_Item",
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 15.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CROW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Corn_Item",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "RAVEN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Corn_Item",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OWL_BROWN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 18.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OWL_SNOW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 18.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "FLAMINGO": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PENGUIN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TORTOISE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Lettuce_Item",
+        "Plant_Crop_Cauliflower_Item"
+      ],
+      "growthTimeMinutes": 60.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CROCODILE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 50.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "LIZARD_SAND": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Insect"
+      ],
+      "growthTimeMinutes": 5.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "EMBERWULF": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Meat_Cooked",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 40.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "YETI": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 50.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "FEN_STALKER": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 50.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "ANTELOPE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Lettuce_Item"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "ARMADILLO": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 15.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "LEOPARD_SNOW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw",
+        "Food_Wildmeat_Cooked"
+      ],
+      "growthTimeMinutes": 35.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "MOSSHORN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Lettuce_Item"
+      ],
+      "growthTimeMinutes": 40.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "MOSSHORN_PLAIN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Lettuce_Item"
+      ],
+      "growthTimeMinutes": 40.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TIGER_SABERTOOTH": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw",
+        "Food_Wildmeat_Cooked"
+      ],
+      "growthTimeMinutes": 45.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "BAT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "BAT_ICE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "BLUEBIRD": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "FINCH_GREEN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPARROW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "WOODPECKER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "HAWK": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "VULTURE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TETRABIRD": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw",
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 25.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TOAD_RHINO": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 30.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TOAD_RHINO_MAGMA": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Cooked"
+      ],
+      "growthTimeMinutes": 35.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "RAT": {
+      "enabled": false,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Corn_Item"
+      ],
+      "growthTimeMinutes": 3.0,
+      "breedCooldownMinutes": 0.5
+    },
+    "MOLERAT": {
+      "enabled": false,
+      "breedingFoods": [
+        "Plant_Crop_Wheat_Item",
+        "Plant_Crop_Corn_Item"
+      ],
+      "growthTimeMinutes": 3.0,
+      "breedCooldownMinutes": 0.5
+    },
+    "LARVA_SILK": {
+      "enabled": false,
+      "breedingFoods": [
+        "Plant_Crop_Lettuce_Item"
+      ],
+      "growthTimeMinutes": 5.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SCORPION": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SLUG_MAGMA": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Cooked"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SNAIL_FROST": {
+      "enabled": false,
+      "breedingFoods": [
+        "Plant_Crop_Lettuce_Item"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SNAIL_MAGMA": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Cooked"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SNAKE_COBRA": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SNAKE_MARSH": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SNAKE_RATTLE": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPIDER": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPIDER_CAVE": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "EEL_MORAY": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SHARK_HAMMERHEAD": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 60.0,
+      "breedCooldownMinutes": 10.0
+    },
+    "SHELLFISH_LAVA": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Cooked"
+      ],
+      "growthTimeMinutes": 15.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRILOBITE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRILOBITE_BLACK": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "WHALE_HUMPBACK": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 120.0,
+      "breedCooldownMinutes": 30.0
+    },
+    "BLUEGILL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CATFISH": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "FROSTGILL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "MINNOW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PIKE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PIRANHA": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PIRANHA_BLACK": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 8.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SALMON": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SNAPJAW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TROUT_RAINBOW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CLOWNFISH": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CRAB": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 15.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "JELLYFISH_BLUE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "JELLYFISH_CYAN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "JELLYFISH_GREEN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "JELLYFISH_MAN_OF_WAR": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "JELLYFISH_RED": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "JELLYFISH_YELLOW": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "LOBSTER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 15.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PUFFERFISH": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TANG_BLUE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TANG_CHEVRON": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TANG_LEMON_PEEL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TANG_SAILFIN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw"
+      ],
+      "growthTimeMinutes": 12.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CACTEE": {
+      "enabled": false,
+      "breedingFoods": [
+        "Plant_Cactus_Flower"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "HATWORM": {
+      "enabled": false,
+      "breedingFoods": [
+        "Plant_Crop_Mushroom_Cap_Brown"
+      ],
+      "growthTimeMinutes": 15.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SNAPDRAGON": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 25.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPARK_LIVING": {
+      "enabled": false,
+      "breedingFoods": [
+        "Plant_Crop_Corn_Item"
+      ],
+      "growthTimeMinutes": 10.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRILLODON": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 40.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "RAPTOR_CAVE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Cooked",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 35.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "REX_CAVE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Cooked",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 60.0,
+      "breedCooldownMinutes": 10.0
+    },
+    "ARCHAEOPTERYX": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw",
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PTERODACTYL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Fish_Raw",
+        "Food_Fish_Grilled",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 40.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "DRAGON_FIRE": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Wildmeat_Cooked",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 180.0,
+      "breedCooldownMinutes": 60.0
+    },
+    "DRAGON_FROST": {
+      "enabled": false,
+      "breedingFoods": [
+        "Food_Fish_Raw",
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 180.0,
+      "breedCooldownMinutes": 60.0
+    },
+    "SKELETON": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SKELETON_BURNT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SKELETON_FROST": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SKELETON_SAND": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SKELETON_PIRATE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SKELETON_INCANDESCENT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "ZOMBIE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "ZOMBIE_BURNT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "ZOMBIE_FROST": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "ZOMBIE_SAND": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "ZOMBIE_ABERRANT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GHOUL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "WRAITH": {
+      "enabled": true,
+      "breedingFoods": [
+        "Ectoplasm"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "WEREWOLF": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SHADOW_KNIGHT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "HORSE_SKELETON": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "HOUND_BLEACHED": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CHICKEN_UNDEAD": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "COW_UNDEAD": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "PIG_UNDEAD": {
+      "enabled": true,
+      "breedingFoods": [
+        "Bone"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOLEM_CRYSTAL_EARTH": {
+      "enabled": true,
+      "breedingFoods": [
+        "Gem_Crystal"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOLEM_CRYSTAL_FLAME": {
+      "enabled": true,
+      "breedingFoods": [
+        "Gem_Crystal"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOLEM_CRYSTAL_FROST": {
+      "enabled": true,
+      "breedingFoods": [
+        "Gem_Crystal"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOLEM_CRYSTAL_SAND": {
+      "enabled": true,
+      "breedingFoods": [
+        "Gem_Crystal"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOLEM_CRYSTAL_THUNDER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Gem_Crystal"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOLEM_FIRESTEEL": {
+      "enabled": true,
+      "breedingFoods": [
+        "Ingot_Iron"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOLEM_GUARDIAN_VOID": {
+      "enabled": true,
+      "breedingFoods": [
+        "Void_Shard"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPIRIT_EMBER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Crop_Chilli_Item"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPIRIT_FROST": {
+      "enabled": true,
+      "breedingFoods": [
+        "Snowball"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPIRIT_ROOT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPIRIT_THUNDER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Gem_Crystal"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOBLIN_SCRAPPER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOBLIN_THIEF": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOBLIN_MINER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOBLIN_LOBBER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOBLIN_SCAVENGER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOBLIN_HERMIT": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOBLIN_OGRE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "GOBLIN_DUKE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Cooked"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRORK_BRAWLER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRORK_WARRIOR": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRORK_HUNTER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRORK_SENTRY": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRORK_GUARD": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRORK_MAULER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRORK_SHAMAN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRORK_CHIEFTAIN": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Cooked"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "TRORK_DOCTOR_WITCH": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SCARAK_LOUSE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SCARAK_SEEKER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SCARAK_FIGHTER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SCARAK_DEFENDER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SCARAK_BROODMOTHER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Wildmeat_Raw"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "KWEEBEC_SEEDLING": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "KWEEBEC_SPROUTLING": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "KWEEBEC_SAPLING": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "KWEEBEC_ROOTLING": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "KWEEBEC_RAZORLEAF": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "KWEEBEC_ELDER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Apple"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OUTLANDER_PEON": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Bread"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OUTLANDER_HUNTER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Bread"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OUTLANDER_MARAUDER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Bread"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OUTLANDER_STALKER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Bread"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OUTLANDER_BERSERKER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Bread"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OUTLANDER_BRUTE": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Bread"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OUTLANDER_CULTIST": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Bread"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OUTLANDER_PRIEST": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Bread"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "OUTLANDER_SORCERER": {
+      "enabled": true,
+      "breedingFoods": [
+        "Food_Bread"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "CRAWLER_VOID": {
+      "enabled": true,
+      "breedingFoods": [
+        "Void_Shard"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "EYE_VOID": {
+      "enabled": true,
+      "breedingFoods": [
+        "Void_Shard"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "LARVA_VOID": {
+      "enabled": true,
+      "breedingFoods": [
+        "Void_Shard"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPAWN_VOID": {
+      "enabled": true,
+      "breedingFoods": [
+        "Void_Shard"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "SPECTRE_VOID": {
+      "enabled": true,
+      "breedingFoods": [
+        "Void_Shard"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    },
+    "HEDERA": {
+      "enabled": true,
+      "breedingFoods": [
+        "Plant_Fruit_Berries_Red"
+      ],
+      "growthTimeMinutes": 20.0,
+      "breedCooldownMinutes": 5.0
+    }
+  }
+}

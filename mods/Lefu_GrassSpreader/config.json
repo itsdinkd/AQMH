@@ -1,0 +1,6 @@
+{
+  "checkRadius": 30,
+  "checkRadiusY": 20,
+  "maxGrassChecksPerPlayer": 10000,
+  "cooldownSeconds": 60.0
+}

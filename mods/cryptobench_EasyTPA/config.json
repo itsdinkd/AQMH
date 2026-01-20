@@ -1,0 +1,6 @@
+{
+  "requestTimeoutSeconds": 60,
+  "warmupSeconds": 3,
+  "cooldownSeconds": 5,
+  "movementThreshold": 0.5
+}

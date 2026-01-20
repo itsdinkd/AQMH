@@ -1,0 +1,26 @@
+{
+  "explorationRadius": 12,
+  "updateRateMs": 500,
+  "mapQuality": "MEDIUM",
+  "minScale": 10.0,
+  "maxScale": 256.0,
+  "debug": false,
+  "locationEnabled": true,
+  "shareAllExploration": false,
+  "maxChunksToLoad": 10000,
+  "radarEnabled": true,
+  "radarRange": 300,
+  "hidePlayersOnMap": false,
+  "hideOtherWarpsOnMap": false,
+  "hideUnexploredWarpsOnMap": true,
+  "allowWaypointTeleports": false,
+  "allowMapMarkerTeleports": false,
+  "hideAllPoiOnMap": false,
+  "hideUnexploredPoiOnMap": true,
+  "hiddenPoiNames": [],
+  "autoSaveInterval": 5,
+  "allowedWorlds": [
+    "default",
+    "world"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "messages": {
+    "warning": "\u00267[\u00264Clearity\u00267] \u00269Clear in \u0026a{delay}\u00269...",
+    "clearing": "\u00267[\u00264Clearity\u00267] \u0026eClearing dropped items...",
+    "clearingNow": "\u00267[\u00264Clearity\u00267] \u0026eClearing dropped items now...",
+    "cleared": "\u00267[\u00264Clearity\u00267] \u0026aDropped items cleared. Removed {count} items.",
+    "noPermission": "You do not have permission to use this command.",
+    "triggeredNow": "Triggered Clearity.",
+    "timeoutSet": "Clear interval set to {delay}",
+    "usage": "Usage: /clearity info | /clearity now | /clearity timeout \u003cduration\u003e",
+    "usageTimeout": "Usage: /clearity timeout \u003cduration\u003e",
+    "invalidDuration": "Invalid duration format.",
+    "info": "Next clear in {minutes}m {seconds}s",
+    "hintNow": "Use /clearity now to clear immediately."
+  },
+  "notifyDelays": [
+    "30min",
+    "15min",
+    "10min",
+    "5min",
+    "3min",
+    "2min",
+    "1min",
+    "30sec",
+    "10sec",
+    "9sec",
+    "8sec",
+    "7sec",
+    "6sec",
+    "5sec",
+    "4sec",
+    "3sec",
+    "2sec",
+    "1sec"
+  ],
+  "interval": "1h",
+  "cleanupMode": "GlobalTime"
+}

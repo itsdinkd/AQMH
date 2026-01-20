@@ -1,0 +1,20 @@
+{
+  "Group": "Darkhax",
+  "Name": "WaybackCharmModified",
+  "Version": "1.0.1-a",
+  "Description": "",
+  "Authors": [
+    {
+      "Name": "Darkhax",
+      "Email": "",
+      "Url": ""
+    }
+  ],
+  "Website": "",
+  "Dependencies": {},
+  "OptionalDependencies": {},
+  "LoadBefore": {},
+  "DisabledByDefault": false,
+  "IncludesAssetPack": false,
+  "SubPlugins": []
+}

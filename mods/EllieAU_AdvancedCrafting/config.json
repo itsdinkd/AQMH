@@ -1,0 +1,22 @@
+{
+  "CraftingSpeedMultiplier": 1.0,
+  "IncludeProcessingRecipes": false,
+  "DisableAllCrafting": false,
+  "InputMultiplier": 1.0,
+  "OutputMultiplier": 1.0,
+  "PrimaryOutputQuantityMultiplier": 1.0,
+  "Overrides": [
+    {
+      "ItemId": "Potion_Morph_Dragon_Fire",
+      "DisableCrafting": true
+    },
+    {
+      "ItemId": "Potion_Morph_Dragon_Frost",
+      "DisableCrafting": true
+    },
+    {
+      "ItemId": "Potion_Morph_Dragon_Void",
+      "DisableCrafting": true
+    }
+  ]
+}

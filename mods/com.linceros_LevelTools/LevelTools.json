@@ -1,0 +1,15 @@
+{
+  "Enabled": true,
+  "DurabilityLossToLevel": 10.0,
+  "DurabilityBonusPercent": 2.5,
+  "SpeedBonusPercent": 2.0,
+  "DamageBonusPercent": 1.5,
+  "ShowLevelUpMessage": true,
+  "ShowHUD": true,
+  "MaxLevelJunk": 3,
+  "MaxLevelCommon": 4,
+  "MaxLevelUncommon": 5,
+  "MaxLevelRare": 10,
+  "MaxLevelEpic": 15,
+  "MaxLevelLegendary": 25
+}

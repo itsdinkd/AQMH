@@ -1,0 +1,8 @@
+{
+  "QuickDepositRange": 10.0,
+  "DefaultHotbarSwapper": false,
+  "DefaultNotToMyHotbar": true,
+  "DefaultQuickDeposit": true,
+  "DefaultKeybindMode": "DROP_G",
+  "DefaultBackpackMode": "SAME_ITEMS"
+}

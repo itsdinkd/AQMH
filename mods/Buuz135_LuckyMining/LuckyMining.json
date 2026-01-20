@@ -1,0 +1,23 @@
+{
+  "LuckStartChance": 0.2,
+  "LuckIncreaseChance": 0.02,
+  "MaxTimeBetweenBlockBreaksInSeconds": 3,
+  "WhitelistOres": [
+    "Ore_Adamantite_",
+    "Ore_Cobalt_",
+    "Ore_Copper_",
+    "Ore_Gold_",
+    "Ore_Iron_",
+    "Ore_Mithril_",
+    "Ore_Onyxium_",
+    "Ore_Silver_",
+    "Ore_Thorium"
+  ],
+  "StoneReplaceableWhitelist": [
+    "Rock_Basalt",
+    "Rock_Shale",
+    "Rock_Slate",
+    "Rock_Stone",
+    "Rock_Volcanic"
+  ]
+}

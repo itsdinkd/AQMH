@@ -1,0 +1,37 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Weapon_9mm_Ammo.name"
+  },
+  "Categories": [
+    "Items.Ammo"
+  ],
+  "Quality": "Rare",
+  "ItemLevel": 2,
+  "PlayerAnimationsId": "Item",
+  "IconProperties": {
+    "Scale": 0.5,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      0,
+      -5
+    ]
+  },
+  "Model": "Items/Weapons/Arrow/Arrow.blockymodel",
+  "Texture": "Items/Weapons/Arrow/Crude_Texture.png",
+  "Icon": "Icons/ItemsGenerated/9mm_Ammo.png",
+  "MaxStack": 40,
+  "DroppedItemAnimation": "Items/Animations/Dropped/Dropped_Diagonal_Left.blockyanim",
+  "Tags": {
+    "Type": [
+      "Ammo"
+    ],
+    "Family": [
+      "Bullet"
+    ]
+  },
+  "ItemSoundSetId": "ISS_Items_Metal"
+}

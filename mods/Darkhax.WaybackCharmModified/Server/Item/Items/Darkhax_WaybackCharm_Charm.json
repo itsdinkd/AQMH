@@ -1,0 +1,61 @@
+{
+  "TranslationProperties": {
+    "Name": "items.Darkhax_WaybackCharm_Charm.name",
+    "Description": "items.Darkhax_WaybackCharm_Charm.description"
+  },
+  "Model": "Resources/Charms/Darkhax_WaybackCharm_Charm.blockymodel",
+  "Texture": "Resources/Charms/Darkkhax_WaybackCharm_Charm.png",
+  "Icon": "Icons/ItemsGenerated/Darkhax_WaybackCharm_Charm.png",
+  "Recipe": {
+    "Input": [
+      {
+        "ItemId": "Ingredient_Bar_Gold",
+        "Quantity": 3
+      },
+      {
+        "ItemId": "Ingredient_Leather_Medium",
+        "Quantity": 1
+      },
+      {
+        "ItemId": "Ingredient_Void_Essence",
+        "Quantity": 15
+      },
+      {
+        "ItemId": "Ingredient_Life_Essence_Concentrated",
+        "Quantity": 1
+      }
+    ],
+    "BenchRequirement": [
+      {
+        "Type": "Crafting",
+        "Categories": [
+          "Workbench_Tools"
+        ],
+        "Id": "Workbench",
+        "RequiredTierLevel": 2
+      }
+    ]
+  },
+  "Interactions": {
+    "Use": {
+      "Interactions": [
+        {
+          "Type": "DarkhaxSpellbookWarpHome"
+        }
+      ]
+    }
+  },
+  "IconProperties": {
+    "Scale": 1.4,
+    "Rotation": [
+      22.5,
+      45,
+      22.5
+    ],
+    "Translation": [
+      2,
+      -9
+    ]
+  },
+  "PlayerAnimationsId": "Item"
+}
